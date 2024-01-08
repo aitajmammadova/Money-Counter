@@ -1,0 +1,19 @@
+.money-sec {
+    margin: 50px auto;
+
+
+}
+
+.row {
+    position: relative;
+    display: flex;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+#result img {
+    width: 500px;
+    height: 100%;
+    position: absolute;
+
+}
